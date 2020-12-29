@@ -1,0 +1,5 @@
+__pycache__/**
+.ipynb_checkpoints/**
+.udacity-pa
+first_neural_network*
+first_neural_network/*
